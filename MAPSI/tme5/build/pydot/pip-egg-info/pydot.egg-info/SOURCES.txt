@@ -1,0 +1,8 @@
+README
+dot_parser.py
+pydot.py
+pip-egg-info/pydot.egg-info/PKG-INFO
+pip-egg-info/pydot.egg-info/SOURCES.txt
+pip-egg-info/pydot.egg-info/dependency_links.txt
+pip-egg-info/pydot.egg-info/requires.txt
+pip-egg-info/pydot.egg-info/top_level.txt
